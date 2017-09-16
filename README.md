@@ -14,6 +14,10 @@ console.log(random(0,5));
 </script> 
 ```
 
+# More info
+
+This project was made as a workshop at CodePenDay 2017 in Hamburg, slides and video available [here](https://haroen.me/presentations/en/fast-clock)
+
 # License
 
 WTFPL
